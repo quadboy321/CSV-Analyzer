@@ -4,6 +4,10 @@ A professional CSV analysis tool that provides essential insights with a clean, 
 
 ![Screenshot](https://github.com/quadboy321/CSV-Analyzer/blob/main/StartUP.png) 
 
+![Screenshot](https://github.com/quadboy321/CSV-Analyzer/blob/main/CSVfile.png)
+
+![Screenshot](https://github.com/quadboy321/CSV-Analyzer/blob/main/example.png)
+
 ## Features
 - Instant file summary (rows, columns)
 - Column type detection (text, number, mixed)
