@@ -15,4 +15,5 @@ A professional CSV analysis tool that provides essential insights with a clean, 
 ## Installation
 
 git clone https://github.com/quadboy321/CSV-Analyzer.git
+
 cd CSV-Analyzer
