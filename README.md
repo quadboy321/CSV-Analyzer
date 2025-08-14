@@ -2,7 +2,7 @@
 
 A professional CSV analysis tool that provides essential insights with a clean, user-friendly interface.
 
-![Screenshot](StartUp.png)  <!-- SCREENSHOT COMiNG SOON! -->
+[![Screenshot](StartUp.png) ](https://github.com/quadboy321/CSV-Analyzer/blob/main/StartUP.png) <!-- SCREENSHOT COMiNG SOON! -->
 
 ## Features
 - Instant file summary (rows, columns)
